@@ -16,3 +16,11 @@ _Shooting at targets mid-game_
 
 ![Gameplay Screenshot 3](images/screenshot3.png)
 _Targets breaking apart after being hit_
+
+## 🕹 Features
+
+- First-person controls with a functional rifle
+- Muzzle flash particles on each shot
+- Destructible targets that break apart on impact
+- Win/lose condition based on hitting all targets before time expires
+- Basic ambient scene elements and custom lighting
