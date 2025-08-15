@@ -24,3 +24,26 @@ _Targets breaking apart after being hit_
 - Destructible targets that break apart on impact
 - Win/lose condition based on hitting all targets before time expires
 - Basic ambient scene elements and custom lighting
+
+## 🎮 Controls
+
+- **WASD** – Move
+- **Mouse** – Look
+- **Left Mouse Button** – Shoot
+- **ESC** – Quit game
+
+## 🚀 How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/YourUsername/UnrealFirstPersonShooter.git
+   ```
+
+2. Open the .uproject file in Unreal Engine 5.5.
+
+3. Click Play in the editor.
+
+📜 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
